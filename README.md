@@ -1,0 +1,2 @@
+# WMP_A3
+Simply put, you must answer the question, “Which .NET data structure performs best for data retrieval: ArrayList, List, Dictionary or HashTable?” Here are the details: 1. Design a test to effectively measure the performance of searching and/or data retrievals for each of the 4 data structures above. 2. Implement the test, and measure the performance in the program. 3. Discuss your results in a Word document, summarizing your observations and explaining why the results differ for each data structure. (This should be less than a page.)
